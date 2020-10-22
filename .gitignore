@@ -1,0 +1,7 @@
+client/node_modules
+comments/node_modules
+posts/node_modules
+
+client/.dist
+comments/.dist
+posts/.dist
