@@ -1,7 +1,13 @@
+.dist/
+
 client/node_modules
 comments/node_modules
 posts/node_modules
+event-bus/node_modules
+query/node_modules
 
 client/.dist
 comments/.dist
 posts/.dist
+event-bus/.dist
+query/.dist
